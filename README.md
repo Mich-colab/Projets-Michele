@@ -7,6 +7,7 @@ descriptif de ces groupes
 
 **Modélisation et Visualisation de données de vente avec PowerBI**
 Importation, nettoyage de données et modélisation via PowerQuery Création de table de dates Visualisation des données
+
 Version ppt à télécharger
 
 **Analyse de sentiment Avis clients Amazon**
