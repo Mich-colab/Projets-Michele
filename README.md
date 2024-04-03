@@ -5,6 +5,10 @@ Pré-processing et nettoyage des données
 clustering grâce à la méthode Kmeams pour identifier des groupes d'acheteurs au comportement similaire
  et descriptif de ces groupes
 
+ **Projet Clustering CAH Base Chocolats**
+
+Identifier des segments de marques/appellations au sein d'un rayon en fonction des valeurs nutritionnelles afin de mieux adresser les cibles
+
 **Modélisation et Visualisation de données de vente avec PowerBI**
 Importation, nettoyage de données et modélisation via PowerQuery Création de table de dates Visualisation des données
 
