@@ -1,3 +1,5 @@
+**Bienvenue dans mon portfolio :)**
+
 **Projet E-commerce Kmeans**
 
 L'analyse des comportements des utilisateurs d'un site internet (données issus de Kaggles):
