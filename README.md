@@ -1,3 +1,5 @@
+**Bienvenue dans mon portfolio! je rajoute au fur et à mesure l'ensemble des projets sur lesquels je travaille**
+
 **Projet E-commerce Kmeans**
 
 L'analyse des comportements des utilisateurs d'un site internet (données issus de Kaggles):
@@ -7,7 +9,7 @@ clustering grâce à la méthode Kmeams pour identifier des groupes d'acheteurs 
 
  **Projet Clustering CAH Base Chocolats**
 
-Identifier des segments de marques/appellations au sein d'un rayon en fonction des valeurs nutritionnelles afin de mieux adresser les cibles
+Identifier des segments de marques/appellations en fonction des valeurs nutritionnelles afin de mieux adresser les cibles
 
 **Modélisation et Visualisation de données de vente avec PowerBI**
 Importation, nettoyage de données et modélisation via PowerQuery Création de table de dates Visualisation des données
