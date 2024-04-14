@@ -14,7 +14,7 @@ Identifier des segments de marques/appellations en fonction des valeurs nutritio
 **Modélisation et Visualisation de données avec PowerBI**
 Importation, nettoyage de données et modélisation via PowerQuery Création de table de dates Visualisation des données. 
 
-**Pensez à télécharger le .pbix pour visualiser dans PowerBI (cliquer sur "view raw" ou sur la flèche à droite qui pointe vers le bas)**
+Pensez à télécharger le .pbix pour visualiser dans PowerBI (cliquer sur "view raw" ou sur la flèche à droite qui pointe vers le bas)
 
 
 **Analyse de sentiment Avis clients Amazon**
