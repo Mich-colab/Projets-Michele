@@ -12,7 +12,7 @@ clustering grâce à la méthode Kmeams pour identifier des groupes d'acheteurs 
 Identifier des segments de marques/appellations en fonction des valeurs nutritionnelles afin de mieux adresser les cibles
 
 **Modélisation et Visualisation de données avec PowerBI**
-Importation, nettoyage de données et modélisation via PowerQuery Création de table de dates Visualisation des données. Pensez à télécharger le pbix pour visualiser dans PowerBI
+Importation, nettoyage de données et modélisation via PowerQuery Création de table de dates Visualisation des données. Pensez à télécharger le .pbix pour visualiser dans PowerBI (cliquer sur "view raw" ou sur la flèche à droite qui pointe vers le bas)
 
 
 **Analyse de sentiment Avis clients Amazon**
