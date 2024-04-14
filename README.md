@@ -1,4 +1,4 @@
-**Bienvenue dans mon portfolio! je rajoute au fur et à mesure l'ensemble des projets sur lesquels je travaille**
+**Bienvenue dans mon portfolio! je rajoute au fur et à mesure l'ensemble des projets sur lesquels je travaille.**
 
 **Projet E-commerce Kmeans**
 
