@@ -1,4 +1,4 @@
-**Bienvenue dans mon portfolio! je rajoute au fur et à mesure l'ensemble des projets sur lesquels je travaille**
+**Bienvenue dans mon portfolio! je rajoute au fur et à mesure l'ensemble des projets sur lesquels je travaille.**
 
 **Projet E-commerce Kmeans**
 
@@ -12,11 +12,7 @@ clustering grâce à la méthode Kmeams pour identifier des groupes d'acheteurs 
 Identifier des segments de marques/appellations en fonction des valeurs nutritionnelles afin de mieux adresser les cibles
 
 **Modélisation et Visualisation de données de vente avec PowerBI**
-Importation, nettoyage de données et modélisation via PowerQuery 
-Création de table de dates Visualisation des données
-
-**Requêtes SQL**
-Requêtes SQL pour répondre à des besoins métiers
+Importation, nettoyage de données et modélisation via PowerQuery Création de table de dates Visualisation des données
 
 
 **Analyse de sentiment Avis clients Amazon**
