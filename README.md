@@ -1,4 +1,5 @@
 **Bienvenue dans mon portfolio! je rajoute au fur et à mesure l'ensemble les projets sur lesquels je travaille.**
+
 **Projet Requêtes SQl**
 
 Ce Projet consiste à lancer des **requêtes SQL** sur des données CRM (pipeline de vente B2B) d'une entreprise qui vend du matériel informatique. 
