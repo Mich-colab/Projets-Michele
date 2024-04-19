@@ -1,5 +1,6 @@
 **Bienvenue dans mon portfolio! je rajoute au fur et à mesure l'ensemble les projets sur lesquels je travaille.**
-**Projet Requêtes SQl**
+
+**Projet Requêtes SQL**
 
 Ce Projet consiste à lancer des **requêtes SQL** sur des données CRM (pipeline de vente B2B) d'une entreprise qui vend du matériel informatique. 
 L'objectif est de monter la capacité à requêter les bases de données SQL pour des besoins métiers: des requêtes les plus simples au plus avancées.
